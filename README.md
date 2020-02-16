@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+ https://github.com/Nizhynska/rsschool-cv/cv
