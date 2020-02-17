@@ -1,6 +1,14 @@
 
 .cv-wrap {
-margin:0 auto;
-width: 1024px;
-color:  black;
+ width: 1024px;
+ margin:0 auto;
+ color:  black;
+ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+.contact-information{
+  text-decoration: none;
+  color: black;
+}
+.information{
+  display: block;
 }
