@@ -20,7 +20,34 @@
 }
 .information ul{
   margin-top: 5px;
+  margin-bottom: 5px;
 }
 .information-heading{
-  margin:  0px;
+  margin: 0px;
+}
+.photo-wrap{
+  width: 50%;
+  float: right;
+  text-align: right;
+}
+.photo{
+  width: 181px;
+  height: 251px;
+}
+.cv-information{
+  width: 50%;
+  float: left;
+}
+.clear {
+  clear: both;
+}
+.heading-name{
+  margin-top: 0;
+}
+.content-wrap{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.text{
+  display: block;
 }
