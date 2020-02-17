@@ -1,0 +1,53 @@
+
+.cv-wrap {
+ max-width: 1024px;
+ margin:0 auto;
+ color:  black;
+ font-size: 16px;
+ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+.contact-information{
+  text-decoration: none;
+  color: black;
+}
+.information{
+  display: block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.information:nth-child(3){
+  margin-bottom: 30px;
+}
+.information ul{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.information-heading{
+  margin: 0px;
+}
+.photo-wrap{
+  width: 50%;
+  float: right;
+  text-align: right;
+}
+.photo{
+  width: 181px;
+  height: 251px;
+}
+.cv-information{
+  width: 50%;
+  float: left;
+}
+.clear {
+  clear: both;
+}
+.heading-name{
+  margin-top: 0;
+}
+.content-wrap{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.text{
+  display: block;
+}
