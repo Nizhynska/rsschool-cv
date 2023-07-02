@@ -11,7 +11,7 @@ Skype: live:.cid.e88ac17f9ca7c903 <br/>
 
 ## About me 
 
-Hello, I`m Polina, I started my course and would like to learn JavaScript and have a new slills. I graduated an University and have a diploma in Softwhare Engineering fiald. I like yoga, swimming etc.
+Hello, I`m Polina, I started my course and would like to learn JavaScript and have a new slills. I graduated an University and have a diploma in Softwhare Engineering fiald. I like yoga, swimming etc. I have a C1 English level.
 
 ## Code example 
 
